@@ -1,0 +1,81 @@
+.viewcart{
+   
+    height: '100px';
+    
+}
+.viewimage{
+    height: 500px;
+}
+.btn{
+    margin: 10px;
+    background-color: blue;
+}
+.seconddiv{
+    padding:0px;
+    
+}
+.divview{
+
+}
+.login{
+    color: black;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color:dimgrey;
+    height: 400px;
+    width: 300px;
+}
+    .lgbtn{
+        background-color: antiquewhite;
+        margin: 30px;
+position: relative;
+left: 50px;
+    }
+    .error{
+        color: red;
+    }
+    .div-admn{
+       
+        background-color: aqua;
+        height: 100vh;
+        width: 250px;
+    }
+.admn-list{
+    background-color:aqua ;
+}
+.d-flex{
+    position: relative;
+   right : 150px;
+   
+}
+.main-bskt{
+    position: relative;
+    right: 100px;
+}
+.main-lgn{
+    position: relative;
+    right: 50px;
+}
+.admnprdct{
+    color: black;
+    margin-top: 20px;
+    padding-left: 30px;
+    /* background-color: rgb(155, 147, 162); */
+   width: 1500px;
+}
+.admn{
+ display: inline-flex;
+}
+.addprdct{
+    margin-top: 20px;
+}
+.sgbtn{
+    background-color: antiquewhite;
+    position: relative;
+    left:50px
+}
+.tbody{
+    height: 100px;
+}
